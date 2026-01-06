@@ -1,0 +1,9 @@
+{
+  "name": "isaacs app",
+  "description": "An AI-powered screen reader that analyzes visuals, speaks answers, and can simulate interaction through tool calling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
